@@ -1,4 +1,4 @@
-# blog_app_xd
+# hw1
 
 A new Flutter application.
 
